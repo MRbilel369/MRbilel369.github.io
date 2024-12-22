@@ -8,7 +8,7 @@ color: yellow;
 <body style="background-color: #780606;">
 <p class="b2" id="myP"> .You are my angel<br>
 .My guardian angel<br>
-.My comfort zone (ur expression)<br>
+.My comfort zone (ur expression) <br>
 .My HOME </p>
 <style>
   #myP {
