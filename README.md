@@ -12,7 +12,7 @@ color: yellow;
 .My HOME </p>
 <style>
   #myP {
-    width: 50vw;  /* Set width to 50% of the viewport width */
+    width: 80vw;  /* Set width to 50% of the viewport width */
   }
 </style>
 <style>
